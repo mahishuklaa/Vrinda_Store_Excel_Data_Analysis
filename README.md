@@ -16,7 +16,7 @@
 3. Data Analysis (PivotTable)
 4. Interactive Dashboard (PivotChart and Slicers)
 
-##Insights
+## Insights
 1. Women are more likely to order compared to men (~65%).
 2. The top 3 states is sales are Maharashtra, Karnataka and Uttar Pradesh.
 3. Adults of the age group 30-49 yrs have maximum contribution (~50%)
