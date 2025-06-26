@@ -16,6 +16,8 @@
 3. Data Analysis (PivotTable)
 4. Interactive Dashboard (PivotChart and Slicers)
 
+![Uploading Vrinda Store Data Analysis Excel Dashboard.png…]()
+
 ## Insights
 1. Women are more likely to order compared to men (~65%).
 2. The top 3 states is sales are Maharashtra, Karnataka and Uttar Pradesh.
