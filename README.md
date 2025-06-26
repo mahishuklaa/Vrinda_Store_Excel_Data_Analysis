@@ -16,7 +16,7 @@
 3. Data Analysis (PivotTable)
 4. Interactive Dashboard (PivotChart and Slicers)
 
-![Uploading Vrinda Store Data Analysis Excel Dashboard.png…]()
+![Vrinda Store Data Analysis Excel Dashboard](https://github.com/user-attachments/assets/47a0da1e-5c8b-4f27-bd44-087c9d3537ca)
 
 ## Insights
 1. Women are more likely to order compared to men (~65%).
